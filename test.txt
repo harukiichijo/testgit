@@ -1,10 +1,4 @@
 <?php
     echo "hello world";
     echo "hi";
-    asd
-    asdas
-    das
-    
-    oooiqwem
-    qwewqejjdk
 ?>
